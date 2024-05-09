@@ -6,6 +6,9 @@ Adobe Cloud Free is powered by some.js
 
 Adobe Creative Cloud offers over 20 apps from Adobe, such as Photoshop, Premiere Pro, After Effects, and more, but it requires a subscription. For this reason, there's a utility called Adobe Cloud Free (ACF) that automatically creates and activates a new account for a 7-day trial on all Adobe Creative Cloud applications. ACF uses hi2.in for temporary email services, allowing you to change your account settings at any time.
 
+> [!Warning]
+> The automatic creation and activation of Adobe accounts may violate their terms of use, use Adobe-Cloud-Free at your own risk, the author/co-authors of this repository take no responsibility.
+
 ## Usage Instructions
 
 ### Prerequisites
