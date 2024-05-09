@@ -182,10 +182,10 @@ try:
 
         urls = re.findall(r'(https?://\S+)', email_text)
 
-        adobe_url = next((url for url in urls if url.startswith("https://adobeid.services.adobe.com/ims/verify/v2/ru_ru/")), None)
+        adobe_url = next((url for url in urls if url.startswith("https://adobeid.services.adobe.com/ims/verify/v2/")), None)
 
         if adobe_url:
-            base_url = "https://adobeid.services.adobe.com/ims/verify/v2/ru_ru/"
+            base_url = "https://adobeid.services.adobe.com/ims/verify/v2/"
             path = adobe_url[len(base_url):]
 
             transformed_path = path.upper()
