@@ -14,7 +14,7 @@ Adobe Creative Cloud offers over 20 apps from Adobe, such as Photoshop, Premiere
 ### Prerequisites
 
 - Install the latest version of [Python](https://www.python.org/downloads/)
-- Chrome browser installed on your system
+- Chrome, Edge or Firefox browser installed on your system
 
 ### Installation Steps
 
