@@ -53,6 +53,6 @@ If you need to retrieve the email address used by ACF during account registratio
 4. Click the orange "Customize" button to access the email again.
 
 ---
-![Photoshop_xWOCZZYRbU](https://github.com/somebodyscript/adobe-cloud-free/assets/144458220/c8772e38-749d-431a-8f7f-5d88d6d6d0cd)
+![Photo](https://github.com/somebodyscript/adobe-cloud-free/assets/144458220/74469dba-5053-483e-9984-b4f03ebb6485)
 Feel free to contribute to this project or report issues by creating a pull request or opening an issue.
 
