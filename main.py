@@ -153,7 +153,7 @@ try:
     input("Press Enter when you're done...")
     print("Ok, thanks, proceeding to next step ^^")
 
-    time.sleep(6)
+    time.sleep(10)
     WebDriverWait(driver, 15).until(EC.url_matches("https://account.adobe.com/"))
 
     if driver.current_url == "https://account.adobe.com/":
