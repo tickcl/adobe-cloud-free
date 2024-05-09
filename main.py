@@ -26,6 +26,7 @@ print('Adobe-Cloud-Free')
 print('Hit Enter, when you are ready.')
 print('Powered by some.js')
 print('https://somejs.site')
+print('https://github.com/somebodyscript/adobe-cloud-free/')
 input()
 
 def generate_random_password(length=10):
