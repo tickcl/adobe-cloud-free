@@ -54,5 +54,7 @@ If you need to retrieve the email address used by ACF during account registratio
 
 ---
 ![Photo](https://github.com/somebodyscript/adobe-cloud-free/assets/144458220/74469dba-5053-483e-9984-b4f03ebb6485)
+
 Feel free to contribute to this project or report issues by creating a pull request or opening an issue.
 
+I would be very pleased if you could star or sponsor this project.
