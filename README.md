@@ -9,6 +9,13 @@ Adobe Creative Cloud offers over 20 apps from Adobe, such as Photoshop, Premiere
 > [!Warning]
 > The automatic creation and activation of Adobe accounts may violate their terms of use, use Adobe-Cloud-Free at your own risk, the author/co-authors of this repository take no responsibility. Use for research purposes only.
 
+# Tips
+1. Do not set the speed version to less than 5 seconds, even if you have fast Internet and a strong device. 
+2. Once you complete the captcha, press Enter in the console. 
+3. After creating an account, install Adobe Creative Cloud and log into the created account, and select the Adobe product, there will be a “Try” button next to it, click on it and the installation of the program will begin.
+4. If you have problems, feel free to post them in Discussions or Issues, or email me.
+> some@gostar.app
+
 ## Usage Instructions
 
 ### Prerequisites
