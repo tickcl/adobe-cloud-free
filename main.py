@@ -168,7 +168,7 @@ try:
     input("Press Enter when you're done...")
     print("Ok, thanks, proceeding to the next step ^^")
 
-    time.sleep(wait_time)
+    time.sleep(wait_time + 5)
     WebDriverWait(driver, wait_time).until(EC.url_matches("https://account.adobe.com/"))
 
     if driver.current_url == "https://account.adobe.com/" or "https://account.adobe.com/#register" in driver.current_url:
@@ -176,11 +176,6 @@ try:
         time.sleep(3)
         driver.get("https://account.adobe.com/profile")
         WebDriverWait(driver, wait_time).until(EC.url_matches("https://account.adobe.com/"))
-        time.sleep(1)
-        WebDriverWait(driver, wait_time).until(EC.element_to_be_clickable((By.ID, "onetrust-reject-all-handler")))
-        cookie_reject = driver.find_element(By.ID, "onetrust-reject-all-handler")
-        cookie_reject.click()
-        print("> Cookies rejected. Proceeding to the next step...")
         time.sleep(4)
         WebDriverWait(driver, wait_time).until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'span.WBgRPa_spectrum-Link')))
         send_verification_email_button = driver.find_element(By.CSS_SELECTOR, 'span.WBgRPa_spectrum-Link')
