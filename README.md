@@ -49,6 +49,7 @@ python main.py
 
 - Once ACF registers and activates your account, download [Adobe Creative Cloud](https://creativecloud.adobe.com/apps/download/creative-cloud?locale=en) to your computer.
 - Log in to Adobe Creative Cloud using the account created by ACF.
+- Select the desired Adobe application in the program and click “Try”, and the installation will begin.
 
 ### Retrieving Email Used by ACF
 
